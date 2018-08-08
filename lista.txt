@@ -1,0 +1,6 @@
+https://srvbioinf1.utalca.cl/~fduran/data/Panguilemodetalle2010-2011.csv
+https://srvbioinf1.utalca.cl/~fduran/data/Panguilemodetalle2011-2012.csv
+https://srvbioinf1.utalca.cl/~fduran/data/Panguilemodetalle2012-2013.csv
+https://srvbioinf1.utalca.cl/~fduran/data/Panguilemodetalle2013-2014.csv
+https://srvbioinf1.utalca.cl/~fduran/data/Panguilemodetalle2014-2015a.csv
+https://srvbioinf1.utalca.cl/~fduran/data/Panguilemodetalle2014-2015b.csv
