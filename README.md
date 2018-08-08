@@ -1,1 +1,3 @@
-# Proyecto_Clima-Arturo-Catalina-
+# Proyecto_Clima
+Arturo Soto
+Catalina Silva
